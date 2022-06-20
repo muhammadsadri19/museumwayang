@@ -1,0 +1,5 @@
+.card{
+    overflow: hidden;
+    position: absolute;
+    transform: translateX(330px);
+}
